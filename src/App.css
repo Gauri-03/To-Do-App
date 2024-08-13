@@ -1,0 +1,31 @@
+.todo-form {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  margin-bottom: 16px;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.todo-input {
+  flex: 1;
+}
+
+.todo-button {
+  padding-left: 100vw;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+.todo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  color: rgb(0, 65, 31);
+}
